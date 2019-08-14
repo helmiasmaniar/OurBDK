@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "11745075232",
+    "firebase_url": "https://ourbdk-a9cee.firebaseio.com",
+    "project_id": "ourbdk-a9cee",
+    "storage_bucket": "ourbdk-a9cee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:11745075232:android:7de8a4713b1d2425",
+        "android_client_info": {
+          "package_name": "io.github.ourbdk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "11745075232-3pit5l44llm3du2rtndhbb3s44mhirkb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.github.ourbdk",
+            "certificate_hash": "77ab0fd2cfc6e0c9bd98b8370889f5799d8d6d30"
+          }
+        },
+        {
+          "client_id": "11745075232-esdgvc0onmab6konn6rf7de8d3bcsm2n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDV22ZgvbHpTMkphBO2g6tnupNPNjwvbek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "11745075232-esdgvc0onmab6konn6rf7de8d3bcsm2n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
